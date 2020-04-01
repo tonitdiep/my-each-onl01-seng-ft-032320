@@ -6,6 +6,7 @@ def my_each(array)  # put argument(s) her
   end
     array
 end
+
 #each method accessing to the array
 #look thru each one
 #yield to each element it makes contact
